@@ -1,0 +1,21 @@
+[main] DEBUG clientSide.Client  - Requested file is ::   "new.txt"
+[main] DEBUG clientSide.Client  - ->The no. of bytes :112
+[main] DEBUG clientSide.Client  - ->File new.txt was downloaded  ( 112 )
+[main] DEBUG clientSide.Client  - Downloading .. new.txt Completed 
+[main] DEBUG clientSide.Client  - 
+----------------------------------------------
+
+[main] DEBUG clientSide.Client  - Requested file is ::   "polycom.jpg"
+[main] DEBUG clientSide.Client  - ->The no. of bytes :2000000
+[main] DEBUG clientSide.Client  - ->File polycom.jpg was downloaded  ( 2000000 )
+[main] DEBUG clientSide.Client  - Downloading .. polycom.jpg Completed 
+[main] DEBUG clientSide.Client  - 
+----------------------------------------------
+
+[main] DEBUG clientSide.Client  - Requested file is ::   "wildlife.wmv"
+[main] DEBUG clientSide.Client  - ->The no. of bytes :26246026
+[main] DEBUG clientSide.Client  - ->File wildlife.wmv was downloaded  ( 26246026 )
+[main] DEBUG clientSide.Client  - Downloading .. wildlife.wmv Completed 
+[main] DEBUG clientSide.Client  - 
+----------------------------------------------
+

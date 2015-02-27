@@ -1,0 +1,28 @@
+[main] DEBUG serverSide.MainServerThread  - Listening to Port 321
+[main] DEBUG serverSide.MainServerThread  - 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - The Number of Files Requested by CLIENT is/are : 3
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Requsted File "new.txt" exists at C:\Users\mgiddaluri\SearchFolder
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Sending new.txt of size (112 bytes) 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Sending Completed.......!
+
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - __________________________________________
+
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Requsted File "polycom.jpg" exists at C:\Users\mgiddaluri\SearchFolder
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Sending polycom.jpg of size (2000000 bytes) 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Sending Completed.......!
+
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - __________________________________________
+
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Requsted File "wildlife.wmv" exists at C:\Users\mgiddaluri\SearchFolder
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Sending wildlife.wmv of size (26246026 bytes) 
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - Sending Completed.......!
+
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - __________________________________________
+
+[Thread-0] DEBUG serverSide.ServerWorkerThread  - 
