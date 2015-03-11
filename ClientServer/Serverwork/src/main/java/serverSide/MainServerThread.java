@@ -5,7 +5,7 @@ public class MainServerThread
 {	
 	public static int port = -1;
 	public static String dirName = null;
-	static Logger Output=Logger.getLogger(ServerProgram.class);
+	static Logger Output=Logger.getLogger(MainServerThread.class);
 	public static void main(String args[])
 	{
 		MainServerThread newServer = new MainServerThread();
