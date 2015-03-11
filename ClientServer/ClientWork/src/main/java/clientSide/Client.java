@@ -5,10 +5,10 @@ import javax.net.ssl.*;
 public class Client
 {		
 	InputStream socketIn;	
-	static Logger logger=Logger.getLogger(ClientProgram.class);	
+	static Logger logger=Logger.getLogger(Client.class);	
 	public static void main(String[] args)
 	{		
-		ClientProgram clientProgram=new ClientProgram();
+		ClientclientProgram=new Client();
 		if(args.length<=3)
 			clientProgram.noArguments(args.length);		
 		else
