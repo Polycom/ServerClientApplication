@@ -4,13 +4,11 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class ClientTest {
+public class Server_test {
 
 	@Test
-	public void test() 
-	{
-		Client client=new Client();
-		client.m
+	public void test() {
+		fail("Not yet implemented");
 	}
 
 }
